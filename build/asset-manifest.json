@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1aae8f0f.css",
+    "main.js": "/static/js/main.0a6fd763.js",
+    "static/js/787.ae3bfe55.chunk.js": "/static/js/787.ae3bfe55.chunk.js",
+    "static/media/epic-games.svg": "/static/media/epic-games.fd827de223d79f52e16aea805c973690.svg",
+    "static/media/twitter.svg": "/static/media/twitter.f68fdb65b6fc656f78ba12650ca3236f.svg",
+    "static/media/youtube.svg": "/static/media/youtube.cced8dfb0a636b5b295b7f441b057460.svg",
+    "static/media/facebook.svg": "/static/media/facebook.ed38c43f83d68d5c1995535a16ad341b.svg",
+    "index.html": "/index.html",
+    "static/media/unreal-engine.svg": "/static/media/unreal-engine.9aea5840763d57352bc783fd41b34a7e.svg",
+    "main.1aae8f0f.css.map": "/static/css/main.1aae8f0f.css.map",
+    "main.0a6fd763.js.map": "/static/js/main.0a6fd763.js.map",
+    "787.ae3bfe55.chunk.js.map": "/static/js/787.ae3bfe55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aae8f0f.css",
+    "static/js/main.0a6fd763.js"
+  ]
+}
